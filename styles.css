@@ -1,0 +1,46 @@
+/* Estilize o seu site aqui */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #007acc;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+h2 {
+    color: #007acc;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer {
+    background-color: #007acc;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+/* Estilize a imagem para torná-la horizontal e reduzida */
+.horizontal-image {
+    width: 400px; /* Defina a largura desejada */
+    max-height: 400px; /* Defina a altura máxima desejada */
+    transform: rotate(-90deg); /* Rotaciona a imagem em 90 graus para ficar horizontal */
+}
