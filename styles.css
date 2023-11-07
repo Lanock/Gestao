@@ -38,9 +38,8 @@ footer {
     text-align: center;
     padding: 10px;
 }
-/* Estilize a imagem para torná-la horizontal e reduzida */
 .horizontal-image {
-    width: 400px; /* Defina a largura desejada */
-    max-height: 400px; /* Defina a altura máxima desejada */
-    transform: rotate(-90deg); /* Rotaciona a imagem em 90 graus para ficar horizontal */
+    width: 400px;
+    max-height: 400px;
+    transform: rotate(-90deg);
 }
