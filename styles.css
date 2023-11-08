@@ -39,12 +39,12 @@ footer {
     padding: 10px;
 }
 .horizontal-image {
-    width: 400px;
-    max-height: 400px;
+    width: 300px;
+    max-height: 300px;
     transform: rotate(-90deg);
 }
 .mapa {
-    width: 400px;
-    max-height: 400px;
+    width: 200px;
+    max-height: 300px;
     transform: rotate(-90deg);
 }
