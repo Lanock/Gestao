@@ -46,4 +46,5 @@ footer {
 .mapa {
     width: 400px;
     max-height: 400px;
+    transform: rotate(-90deg);
 }
